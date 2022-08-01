@@ -1,0 +1,11 @@
+death_date_and_time,manner_of_death,age,sex,race,case_dispo,combined_od1,combined_od2,combined_od3,combined_od4,combined_od5,combined_od6,combined_od7,combined_od8,combined_od9,combined_od10,case_year,incident_zip,decedent_zip
+2007-01-05T16:54:00,Accidents,45,F,W,MO,ACETA,HYDROO,MORPHI,QUETIA,TEMAZ,,,,,,2007,15317,
+2007-01-13T15:49:00,Accidents,51,M,W,MO,BENZOD,COCAIN,,,,,,,,,2007,15120,
+2007-02-03T14:55:00,Accidents,20,M,W,MO,CODEI,HEROIN,,,,,,,,,2007,15090,
+2007-02-04T01:33:00,Accidents,49,M,B,MO,COCAIN,,,,,,,,,,2007,15206,
+2007-02-04T20:49:00,Accident,69,F,W,MO,FENTAN,HYDROM,,,,,,,,,2007,15229,
+2008-02-14T08:20:00,Accidents,21,F,B,MO,AMPH,OPIATE,,,,,,,,,2008,15206,
+2008-03-04T01:24:00,Accidents,16,F,W,MO,OXYCOD,,,,,,,,,,2008,16160,
+2008-03-05T13:32:00,Accident,34,M,W,MO,COCAIN,,,,,,,,,,2008,15238,
+2008-03-08T22:53:00,Accidents,26,M,H,MO,COCAIN,OXYCOD,,,,,,,,,2008,15220,
+2008-03-09T13:10:00,Accidents,57,M,W,MO,DIAZEP,FENTAN,METHAD,,,,,,,,2008,15224,
